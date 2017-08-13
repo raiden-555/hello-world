@@ -1,6 +1,6 @@
 # hello-world
 my first repository.
-hey evryone!
-This is raiden(judt a nickname).
+hey everyone!
+This is raiden(just a nickname).
 I like Data Science. And Mathematics!!
 That's enough for now!
